@@ -91,7 +91,7 @@
     "split-lines": "^2.0.0",
     "strip-bom": "^4.0.0",
     "ts2gas": "^3.6.2",
-    "typescript": "^3.9.5",
+    "typescript": "^4.2.4",
     "watch": "^1.0.2"
   },
   "devDependencies": {
