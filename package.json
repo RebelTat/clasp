@@ -80,7 +80,7 @@
     "googleapis": "^52.1.0",
     "inquirer": "^7.1.0",
     "inquirer-autocomplete-prompt-ipt": "^2.0.0",
-    "is-online": "^8.4.0",
+    "is-online": "^10.0.0",
     "loud-rejection": "^2.2.0",
     "mkdirp": "^1.0.4",
     "multimatch": "^4.0.0",
